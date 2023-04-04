@@ -1,0 +1,4 @@
+C:/Users/pauld/CLionProjects/Currency-Converter-File/cmake-build-debug/CMakeFiles/Currency-Converter-File.dir
+C:/Users/pauld/CLionProjects/Currency-Converter-File/cmake-build-debug/CMakeFiles/test.dir
+C:/Users/pauld/CLionProjects/Currency-Converter-File/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pauld/CLionProjects/Currency-Converter-File/cmake-build-debug/CMakeFiles/rebuild_cache.dir
