@@ -12,4 +12,4 @@ the amount or amounts that the user enters, and return that amount in the second
 languages that are currently offered are US Dollars, British Pound Sterling, Euros, Chinese Yuan, Japanese
 Yen, Russian Rubles, South Korean Won, and Indian Rupees. There is proper input validation every step of 
 the way.
-The language that was utilized in the program is C++. There are no prior instalments necessary.
+The language that was utilized in the program is C++. No prior installations are necessary.
